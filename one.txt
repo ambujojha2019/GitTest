@@ -1,0 +1,6 @@
+class A{
+private String one;
+public String getone(){
+return one;
+public String setOne(String one){
+return one;
